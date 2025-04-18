@@ -3,5 +3,4 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "Building branch: pullreqtest
-   
+      - echo "Building branch: pullreqtest"
