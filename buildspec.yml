@@ -3,5 +3,6 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "Building branch: ${CODEBUILD_SOURCE_VERSION}"
+      - echo "Building branch: targetbranch
+
    
